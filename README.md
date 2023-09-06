@@ -1,11 +1,6 @@
 ## Olá, meu nome é <strong>Lucas!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
+> Data Science | Machine Learning | Deep Learning
 ---
 
 ## 🚀 Minhas Skills
