@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋, I'm Lucas</h1>
+<h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Passionate about Data Science & Machine Learning 📊🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasralbino&label=Profile%20views&color=0e75b6&style=flat" alt="lucasralbino" /> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-rodrigues-albino-610541239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/lucas-rodrigues-albino-610541239](https://www.linkedin.com/in/lucas-rodrigues-albino-610541239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx3SvgPG2QGekZ1eaDXn29w%3D%3D)/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-rodrigues-albino-610541239?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvpp002suqbk3s5rhpeiw%2bq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-rodrigues-albino-610541239?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvpp002suqbk3s5rhpeiw%2bq%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
