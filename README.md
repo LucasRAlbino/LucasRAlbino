@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasralbino&label=Profile%20views&color=0e75b6&style=flat" alt="lucasralbino" /> </p>
 
+- 🔭 Currently, I am focused on the field of data science and machine learning.
+
 - 🌱 I’m currently learning **Python, Data Science, Machine Learning**
 
 - 📫 How to reach me **lucasalbinoar@gmail.com**
