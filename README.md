@@ -21,4 +21,4 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasRAlbino_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasRAlbino,icons=true)
