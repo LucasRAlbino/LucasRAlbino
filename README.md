@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Passionate about web & mobile development 📊🤖</h3>
+<h3 align="center">Passionate about CyberSecurity and IA 📊🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasralbino&label=Profile%20views&color=0e75b6&style=flat" alt="lucasralbino" /> </p>
 
-- 🔭 Currently, I am immersed in the exciting world of development
-
-- 🌱 I’m currently learning **Flutter, ReactJs, Python**
+- 🔭 Currently, I am immersed in the exciting world of cybersecurity
 
 - 📫 How to reach me **lucasalbino.ra@gmail.com**
 
