@@ -26,7 +26,6 @@ class Operator:
         self.role = "Cybersecurity Analyst"
         self.focus = ["Red Teaming", "Pentest", "Bug Bounty"]
         self.arsenal = ["Python", "C++", "Go", "Bash"]
-        self.tools = ["Burp Suite", "Metasploit", "Cobalt Strike"]
         
     def mission(self):
         return "Uncover vulnerabilities before they are exploited."
